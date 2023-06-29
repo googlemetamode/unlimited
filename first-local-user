@@ -3,8 +3,9 @@
 #\\://first-local-user & owner & author ((PAT. PEND.)©®©)
 #\\://first-copyright-user & owner & author ((PAT. PEND.)©®©)
 #\\://first-trademark-user & owner & author ((PAT. PEND.)©®©)
-#\\://first-person-user & owner & author ((PAT. PEND.)©®©)
-#\\://first-binary-user & owner & author ((PAT. PEND.)©®©)
+#\\://first-foundation-user & owner & author ((PAT. PEND.)®©®)#\\://first-person-user & owner & author ((PAT. PEND.)©®©)
+#\\://first-foundry-user & owner & author ((PAT. PEND.)©®©)
+#\\'first-binary-user & owner & author ((PAT. PEND.)©®©)
 #\\://first-certified-user & owner & author ((PAT. PEND.)©®©)
 #\\://first-fullthrottle-user & owner & author ((PAT. PEND.)©®©)
 #\\://first-corporate-user & owner & author ((PAT. PEND.)©®©)
@@ -128,5 +129,6 @@
 #\\://first-venture-user & owner & author ((PAT. PEND.)©®©)
 #\\://first-github-user & owner & author ((PAT. PEND.)©®©)
 #\\://firstfull===rights
-:=first
+\:=first
+\\:/ownership
 \\===/=/==rightfully owned by time consumption and time itself===∞=×===∞===$$$=:==×=∞=#& billmygates
